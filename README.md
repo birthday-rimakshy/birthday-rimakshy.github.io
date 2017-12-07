@@ -1,3 +1,3 @@
-# Just a website for birthday wish
+# Just a website for birthday wish.
 
-made by skb
+made 8th dec
